@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://test-site-page2/sitemap.xml
